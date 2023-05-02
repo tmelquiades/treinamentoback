@@ -1,0 +1,37 @@
+tipos primmitivos
+
+int (7, -4, 0)
+float (4.5, 0.076, -15,223)
+bool (true or false)
+str ('Olá', '7.5')
+
+operadores aritméticos
+
++ : adição
+- : subtração
+/ : divisão
+* : multiplicação
+** : potência
+= : receber atributo
+== : igual a
+// : divisão inteira
+% : resto de divisão
+
+estruturas condicionais
+
+if(condicao):
+ instrucoes
+else:
+ instrucoes
+
+manipulação de strings
+
+método/atributo		descrição
+count()			conta o numero de vezes que a palavra especificada aparece na string
+find()			retorna o índice da primeira ocorrência de substring fornecido na string. Retorna -1 se não for encontrado
+join()			concatena as strings no iterável fornecido como o separador entre elas, sendo a string que fornece este método
+replace()		substitui todas as substring antigas por novas substrings
+strip()			remove os caracteres (padrão espaços) em excesso, tanto à esquerda quanto à direita
+lstrip()		remove os caracteres (padrão espaços) em excesso, à esquerda
+rstrip()		remove os caracteres (padrão espaços) em excesso, à direita
+split()			retorna uma lista de palavras delimitadas pela subtração fornecida. Se o número máximo de divisão for especificado, isso será feito a partir da esquerda
